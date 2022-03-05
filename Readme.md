@@ -70,4 +70,4 @@
   <hr>
   <br>
 
-<a href="https://github.com/aylak-github"><img src="https://github.com/aylak-github/aylak-github/main/github-metrics.svg" alt="Metrics"></a>
+<a href="https://github.com/aylak-github"><img src="https://raw.githubusercontent.com/aylak-github/aylak-github/main/github-metrics.svg" alt="Metrics"></a>
