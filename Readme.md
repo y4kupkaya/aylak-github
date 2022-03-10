@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aylak-github.aylak-github" width="40">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aylak-github.aylak-github" width="1">
 
   <h1 align="center">
     <a href="https://git.io/typing-svg">
