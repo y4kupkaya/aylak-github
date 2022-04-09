@@ -1,3 +1,5 @@
+#AFK 😐
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aylak-github.aylak-github" width="90">
 
   <h1 align="center">
