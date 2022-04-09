@@ -1,5 +1,5 @@
-#AFK 😐
-
+<h2 align="center"> <b>AFK</b> 😐</h2>
+  <br>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aylak-github.aylak-github" width="90">
 
   <h1 align="center">
