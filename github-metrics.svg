@@ -1335,7 +1335,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="522.66 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="522.7633333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1357,10 +1357,10 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                     <div class="value-wrapper">
-                                        <div class="value">6058</div>
+                                        <div class="value">6059</div>
                                     </div>
                                 </div>
-                                <div class="text">Repositories have been deployed 6058 times</div>
+                                <div class="text">Repositories have been deployed 6059 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1637,7 +1637,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 715k out of 49.2m repositories</span>
+                                    <span class="gh">ranked 715k out of 57.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">16</div>
                                     </div>
@@ -1846,7 +1846,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.57m out of 49.2m repositories</span>
+                                    <span class="gh">ranked 2.58m out of 57.4m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">6</div>
                                     </div>
@@ -1946,7 +1946,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2024, 18:02:58 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Jan 2024, 19:07:47 (timezone Europe/Istanbul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
